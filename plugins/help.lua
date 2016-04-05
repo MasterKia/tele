@@ -140,47 +140,28 @@ member
  
  local member = [[
  
- راهنمای فارسی عضو ها :
- @telemanager_ch
+دستورات اعضای عادی :
+!info
  
- !calc [formula]
- 
- !get [Value]
- 
- !filterlist
- 
- !info
- 
- !id
- 
- !me
- 
- !voice [MSG]
- 
- !time
- 
- !time [Area]
- 
- !tex [Msg]
- 
- !feedback [msg]
- 
- !share
- 
- !telemanagerplus
- 
- !sticker [TXT]
- ==========================
- جهت دریافت راهنمای رنک های دیگر میتوانید از دستورات زیر استفاده کنید :
- 
- !help owner 
- راهنمای صاحبان
- 
- !help mod
-راهنمای مدیران
+!id
 
-!help member
-راهنمای اعضای معمولی
+!me
+
+◼️◼️◼️◼️◼️
+
+ !filterlist
+
+ !get [Value]
+
+◻️◻️◻️◻️◻️
+
+ !calc [Formula]
+ 
+ !tex [Message]
+ 
+ !feedback [Message]
+
+✔️Alpha
  
  ]]
  
